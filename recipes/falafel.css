@@ -20,3 +20,9 @@ p {
 li {
     font-size: large;
 }
+
+a {
+    font-size: 28px;
+    text-decoration: none;
+    color: rgb(224, 196, 15);
+}
