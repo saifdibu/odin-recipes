@@ -1,0 +1,28 @@
+body {
+    background-color: lightyellow;
+}
+
+h1, h2, h3 {
+    color: rgb(224, 196, 15);
+    text-align: center;
+    font-size: 32px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    font-size: large;
+}
+
+a {
+    font-size: 28px;
+    text-decoration: none;
+    color: rgb(224, 196, 15);
+}
